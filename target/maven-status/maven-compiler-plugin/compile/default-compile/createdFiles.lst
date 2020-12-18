@@ -1,0 +1,4 @@
+Modelos\Inventario\Tipo_Inventario.class
+Modelos\Inventario\Articulo.class
+DAO\DaoArticulo.class
+Modelos\ArticuloEntity.class
